@@ -30,3 +30,48 @@ Pull requestler kabul edilir. Büyük değişikler için lütfen önce neyi değ
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+---
+### *Other Markdown practices*
+
+Here is so practice you can use :
+
+If you wanna make text bold you can use
+
+```
+**text**
+```
+The output will be : **text**
+
+- italic 
+```
+*text*
+```
+The output will be : *text*
+
+- Ordered or unordered list :
+```
+Ordered list        Unordered list
+
+1. List item        - List item
+2. List item        - List item
+3. List item        - List item
+```
+
+The output will be : 
+
+
+| Ordered List | Undored List |
+| ------------ | ------------ |
+| 1. List item | • List item  |
+| 2. List item | • List item  | 
+| 3. List item | • List item  |
+
+
+
+
+
+
+
+
